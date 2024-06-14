@@ -1,0 +1,7 @@
+1. Define
+2. Plan
+3. Sketch
+4. Design and Build
+5. Test and Optimize
+6. Launch
+7. Maintain and update
